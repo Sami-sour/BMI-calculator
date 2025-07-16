@@ -1,0 +1,114 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(191, 188, 186);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5rem;
+}
+
+.outer-layout {
+  border: 2px solid black;
+  height: 450px;
+  width: 400px;
+  text-align: center;
+  padding-top: 2rem;
+  border-radius: 1rem;
+  background-color: rgb(115, 135, 156);
+}
+
+.inner-layout {
+  background-color: rgb(115, 135, 156);
+}
+
+.para {
+  font-size: 1.5rem;
+  padding-top: 7rem;
+  background-color: rgb(115, 135, 156);
+}
+
+h1 {
+  background-color: rgb(115, 135, 156);
+  color: rgb(26, 49, 60);
+}
+
+.btn {
+  font-size: 1.3rem;
+  padding: 0.15rem;
+  width: 5.2rem;
+  border-radius: 0.5rem;
+  margin-top: 3rem;
+  background-color: rgb(115, 135, 156);
+  border: none;
+  border: 2px solid rgb(9, 9, 9);
+}
+
+.input {
+  display: flex;
+  background-color: rgb(115, 135, 156);
+  padding-top: 4rem;
+  padding-left: 3rem;
+}
+
+.text {
+  background-color: rgb(115, 135, 156);
+  font-size: 1.3rem;
+}
+
+.calculate {
+  background-color: rgb(115, 135, 156);
+  margin-top: 4rem;
+  padding: 0.34rem;
+  border: none;
+  border: 2px solid black;
+  border-radius: 0.5rem;
+  font-size: 1.2rem;
+  width: 7rem;
+}
+
+.second-display {
+  background-color: rgb(115, 135, 156);
+}
+
+.input input {
+  border: none;
+  margin-left: 1rem;
+  border: 2px solid black;
+  border-radius: 0.4rem;
+}
+
+.texts {
+  background-color: rgb(115, 135, 156);
+  padding-top: 3rem;
+  font-size: 1.4rem;
+}
+
+h2 {
+  background-color: rgb(115, 135, 156);
+  padding-top: 4rem;
+}
+
+.content {
+  background-color: rgb(115, 135, 156);
+  padding-top: 2rem;
+  font-size: 1rem;
+}
+
+.third-display {
+  background-color: rgb(115, 135, 156);
+}
+
+.check-again {
+  margin-top: 2rem;
+  background-color: rgb(115, 135, 156);
+  border: none;
+  border: 2px solid black;
+  padding: 0.34rem;
+  border-radius: 0.5rem;
+  font-size: 1.2rem;
+}
